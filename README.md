@@ -9,7 +9,9 @@ With this Dashboard we can gain an overall view of business performance metrics 
 what time of the year is most profitable, what department/ category makes the most sales and returns,   
 what supplier has the most popular items, what sales rep sells the most items and in which department,  
 which items have the highest and lowest profit margin, which Holiday Weekend is the busiest, etc.
-[](https://public.tableau.com/views/AdultStoreExecutiveDashboard/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+- https://public.tableau.com/views/AdultStoreExecutiveDashboard/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 
 ### The specific features that are used for comparison are:  
 1. Department
